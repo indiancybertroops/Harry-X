@@ -1,4 +1,5 @@
 # Harry-X
+## CORS SCANNER,Cross-Origin Resource Sharing Scanner
 Harry-X;  Fastest  CORS (Cross-Origin Resource Sharing) Vuln. Finder , Works on very low end systems, Root Permission Not Required , 
 Easy To Use And WIth Easy Interface And User Friendly, Useful For Bug Hunters, Also Works On Specific Parameters And Used As CORS Scanner 
 We Are Not Responsible For Any Damage Caused By Tool To Any Web And System We've Designed This For Educational Purpose 
